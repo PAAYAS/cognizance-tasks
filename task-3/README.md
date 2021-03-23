@@ -1,4 +1,3 @@
-Markdown | Less | Pretty
+total cases | Total deaths | Total recovered
 --- | --- | ---
-*Still* | `renders` | **nicely**
 1 | 2 | 3
